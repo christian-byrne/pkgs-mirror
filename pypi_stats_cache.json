@@ -1,0 +1,3490 @@
+{
+    "transformers": {
+        "downloads": {
+            "last_day": 873835,
+            "last_month": 32540401,
+            "last_week": 7963900
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pillow": {
+        "downloads": {
+            "last_day": 2306083,
+            "last_month": 108963846,
+            "last_week": 25892009
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "numpy": {
+        "downloads": {
+            "last_day": 7515162,
+            "last_month": 316810537,
+            "last_week": 78157517
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "yors-comfyui-node-setup": {
+        "downloads": {
+            "last_day": 20,
+            "last_month": 1172,
+            "last_week": 110
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "yors-comfyui-node-as-x-type": {
+        "downloads": {
+            "last_day": 20,
+            "last_month": 616,
+            "last_week": 103
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "torch": {
+        "downloads": {
+            "last_day": 1054463,
+            "last_month": 32761011,
+            "last_week": 8697747
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "torchvision": {
+        "downloads": {
+            "last_day": 265996,
+            "last_month": 13047248,
+            "last_week": 3124653
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "blobfile": {
+        "downloads": {
+            "last_day": 68039,
+            "last_month": 3536868,
+            "last_week": 852173
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "tqdm": {
+        "downloads": {
+            "last_day": 2539923,
+            "last_month": 102186847,
+            "last_week": 25730404
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pyyaml": {
+        "downloads": {
+            "last_day": 8085875,
+            "last_month": 365070200,
+            "last_week": 93701283
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "diffusers": {
+        "downloads": {
+            "last_day": 63903,
+            "last_month": 3221185,
+            "last_week": 603353
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pyzbar": {
+        "downloads": {
+            "last_day": 7760,
+            "last_month": 373896,
+            "last_week": 100605
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "authlib": {
+        "downloads": {
+            "last_day": 293103,
+            "last_month": 13262574,
+            "last_week": 3340950
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "markupsafe": {
+        "downloads": {
+            "last_day": 4404563,
+            "last_month": 206197946,
+            "last_week": 50720614
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "annotated-types": {
+        "downloads": {
+            "last_day": 2331207,
+            "last_month": 108465181,
+            "last_week": 25827392
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "anyio": {
+        "downloads": {
+            "last_day": 1825817,
+            "last_month": 88120548,
+            "last_week": 21552809
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "blinker": {
+        "downloads": {
+            "last_day": 1373661,
+            "last_month": 56171511,
+            "last_week": 14083357
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "build": {
+        "downloads": {
+            "last_day": 812329,
+            "last_month": 59258900,
+            "last_week": 14573733
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "certifi": {
+        "downloads": {
+            "last_day": 10858336,
+            "last_month": 475980580,
+            "last_week": 116572504
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "cffi": {
+        "downloads": {
+            "last_day": 5855129,
+            "last_month": 278966440,
+            "last_week": 76079212
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "chardet": {
+        "downloads": {
+            "last_day": 1633202,
+            "last_month": 78100045,
+            "last_week": 18496174
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "charset-normalizer": {
+        "downloads": {
+            "last_day": 10628242,
+            "last_month": 468442406,
+            "last_week": 117923445
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "click": {
+        "downloads": {
+            "last_day": 4991794,
+            "last_month": 236148339,
+            "last_week": 57513863
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "cloudevents": {
+        "downloads": {
+            "last_day": 77858,
+            "last_month": 4731884,
+            "last_week": 1569918
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "cryptography": {
+        "downloads": {
+            "last_day": 8028557,
+            "last_month": 385904919,
+            "last_week": 105153655
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "deprecation": {
+        "downloads": {
+            "last_day": 275990,
+            "last_month": 16118983,
+            "last_week": 3926402
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "distlib": {
+        "downloads": {
+            "last_day": 1411221,
+            "last_month": 96352005,
+            "last_week": 23509319
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "distro": {
+        "downloads": {
+            "last_day": 801065,
+            "last_month": 50862085,
+            "last_week": 12375731
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "dparse": {
+        "downloads": {
+            "last_day": 14842,
+            "last_month": 1460603,
+            "last_week": 345901
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "filelock": {
+        "downloads": {
+            "last_day": 2934492,
+            "last_month": 154584033,
+            "last_week": 37243942
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "flask": {
+        "downloads": {
+            "last_day": 2009930,
+            "last_month": 84044087,
+            "last_week": 20622877
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "functions-framework": {
+        "downloads": {
+            "last_day": 72551,
+            "last_month": 3688957,
+            "last_week": 838004
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "gunicorn": {
+        "downloads": {
+            "last_day": 1329282,
+            "last_month": 53275455,
+            "last_week": 13197604
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "h11": {
+        "downloads": {
+            "last_day": 1882487,
+            "last_month": 90509056,
+            "last_week": 21882314
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "httpcore": {
+        "downloads": {
+            "last_day": 1762789,
+            "last_month": 80861163,
+            "last_week": 19455595
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "httpx": {
+        "downloads": {
+            "last_day": 1906925,
+            "last_month": 83599604,
+            "last_week": 20282584
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "idna": {
+        "downloads": {
+            "last_day": 10362630,
+            "last_month": 452503457,
+            "last_week": 111761149
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "iniconfig": {
+        "downloads": {
+            "last_day": 2659451,
+            "last_month": 136180356,
+            "last_week": 32942508
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "itsdangerous": {
+        "downloads": {
+            "last_day": 1718855,
+            "last_month": 73441174,
+            "last_week": 18202715
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "jinja2": {
+        "downloads": {
+            "last_day": 4350452,
+            "last_month": 198626989,
+            "last_week": 48285247
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "markdown-it-py": {
+        "downloads": {
+            "last_day": 1518807,
+            "last_month": 76846055,
+            "last_week": 18623113
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "marshmallow": {
+        "downloads": {
+            "last_day": 1309366,
+            "last_month": 52702776,
+            "last_week": 12924751
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "mdurl": {
+        "downloads": {
+            "last_day": 1312203,
+            "last_month": 71768900,
+            "last_week": 17195527
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "nest-asyncio": {
+        "downloads": {
+            "last_day": 1100923,
+            "last_month": 42212772,
+            "last_week": 9847510
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "openai": {
+        "downloads": {
+            "last_day": 627086,
+            "last_month": 28917961,
+            "last_week": 7371980
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "opencv-python": {
+        "downloads": {
+            "last_day": 355293,
+            "last_month": 15026402,
+            "last_week": 3734928
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "packaging": {
+        "downloads": {
+            "last_day": 8919675,
+            "last_month": 408924178,
+            "last_week": 100397645
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pip": {
+        "downloads": {
+            "last_day": 6197528,
+            "last_month": 319167977,
+            "last_week": 72708741
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pip-tools": {
+        "downloads": {
+            "last_day": 200322,
+            "last_month": 14343165,
+            "last_week": 3497623
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pipdeptree": {
+        "downloads": {
+            "last_day": 63785,
+            "last_month": 3488319,
+            "last_week": 834925
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pipenv": {
+        "downloads": {
+            "last_day": 195498,
+            "last_month": 12270643,
+            "last_week": 2908336
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "platformdirs": {
+        "downloads": {
+            "last_day": 3670123,
+            "last_month": 197299773,
+            "last_week": 47619336
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pluggy": {
+        "downloads": {
+            "last_day": 3196948,
+            "last_month": 159820306,
+            "last_week": 38883718
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pycparser": {
+        "downloads": {
+            "last_day": 5051371,
+            "last_month": 256666343,
+            "last_week": 62956761
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pydantic": {
+        "downloads": {
+            "last_day": 5117346,
+            "last_month": 232671551,
+            "last_week": 55565030
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pydantic-core": {
+        "downloads": {
+            "last_day": 2897779,
+            "last_month": 133052373,
+            "last_week": 32561030
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pygments": {
+        "downloads": {
+            "last_day": 3302134,
+            "last_month": 173205838,
+            "last_week": 46913258
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pyproject-hooks": {
+        "downloads": {
+            "last_day": 762501,
+            "last_month": 56728658,
+            "last_week": 14007326
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pytest": {
+        "downloads": {
+            "last_day": 3106207,
+            "last_month": 154233629,
+            "last_week": 37674499
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "python-dotenv": {
+        "downloads": {
+            "last_day": 1431496,
+            "last_month": 74309108,
+            "last_week": 17380318
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "python-magic": {
+        "downloads": {
+            "last_day": 201587,
+            "last_month": 10418270,
+            "last_week": 2595738
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "requests": {
+        "downloads": {
+            "last_day": 12465604,
+            "last_month": 524984292,
+            "last_week": 129566580
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "rich": {
+        "downloads": {
+            "last_day": 3584121,
+            "last_month": 124185044,
+            "last_week": 32191858
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "ruamel.yaml": {
+        "downloads": {
+            "last_day": 1405565,
+            "last_month": 60963893,
+            "last_week": 14684114
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "ruamel.yaml.clib": {
+        "downloads": {
+            "last_day": 1084804,
+            "last_month": 50737996,
+            "last_week": 12221042
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "safety": {
+        "downloads": {
+            "last_day": 15550,
+            "last_month": 1807727,
+            "last_week": 411523
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "safety-schemas": {
+        "downloads": {
+            "last_day": 7774,
+            "last_month": 774990,
+            "last_week": 186147
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "setuptools": {
+        "downloads": {
+            "last_day": 11820257,
+            "last_month": 582211013,
+            "last_week": 145881243
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "shellingham": {
+        "downloads": {
+            "last_day": 894971,
+            "last_month": 67678826,
+            "last_week": 15784716
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "sniffio": {
+        "downloads": {
+            "last_day": 1939011,
+            "last_month": 93454104,
+            "last_week": 22887650
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "tree-sitter": {
+        "downloads": {
+            "last_day": 167546,
+            "last_month": 1375635,
+            "last_week": 557648
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "tree-sitter-css": {
+        "downloads": {
+            "last_day": 7,
+            "last_month": 1093,
+            "last_week": 85
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "tree-sitter-html": {
+        "downloads": {
+            "last_day": 29,
+            "last_month": 1512,
+            "last_week": 183
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "tree-sitter-javascript": {
+        "downloads": {
+            "last_day": 83,
+            "last_month": 11159,
+            "last_week": 2909
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "tree-sitter-json": {
+        "downloads": {
+            "last_day": 6,
+            "last_month": 1217,
+            "last_week": 92
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "tree-sitter-python": {
+        "downloads": {
+            "last_day": 77099,
+            "last_month": 163856,
+            "last_week": 139442
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "tree-sitter-toml": {
+        "downloads": {
+            "last_day": 6,
+            "last_month": 1018,
+            "last_week": 60
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "tree-sitter-typescript": {
+        "downloads": {
+            "last_day": 227,
+            "last_month": 9661,
+            "last_week": 2692
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "tree-sitter-yaml": {
+        "downloads": {
+            "last_day": 7,
+            "last_month": 1923,
+            "last_week": 619
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "typer": {
+        "downloads": {
+            "last_day": 683370,
+            "last_month": 36635233,
+            "last_week": 8262522
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "typing-extensions": {
+        "downloads": {
+            "last_day": 10741215,
+            "last_month": 451865726,
+            "last_week": 108403076
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "urllib3": {
+        "downloads": {
+            "last_day": 13992193,
+            "last_month": 590958199,
+            "last_week": 144846759
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "virtualenv": {
+        "downloads": {
+            "last_day": 1933243,
+            "last_month": 137976529,
+            "last_week": 33729234
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "watchdog": {
+        "downloads": {
+            "last_day": 440161,
+            "last_month": 24674146,
+            "last_week": 5918517
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "werkzeug": {
+        "downloads": {
+            "last_day": 2627321,
+            "last_month": 113943256,
+            "last_week": 28334875
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "wheel": {
+        "downloads": {
+            "last_day": 6530244,
+            "last_month": 256189284,
+            "last_week": 68018353
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "yara-python": {
+        "downloads": {
+            "last_day": 4409,
+            "last_month": 193777,
+            "last_week": 44187
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "addict": {
+        "downloads": {
+            "last_day": 121883,
+            "last_month": 4233203,
+            "last_week": 1065846
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "litellm": {
+        "downloads": {
+            "last_day": 22791,
+            "last_month": 1386042,
+            "last_week": 359698
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "boto3": {
+        "downloads": {
+            "last_day": 38004989,
+            "last_month": 1487017623,
+            "last_week": 342448684
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "yacs": {
+        "downloads": {
+            "last_day": 30118,
+            "last_month": 1541924,
+            "last_week": 369530
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "scipy": {
+        "downloads": {
+            "last_day": 2811796,
+            "last_month": 118115454,
+            "last_week": 29300401
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "scikit-image": {
+        "downloads": {
+            "last_day": 209961,
+            "last_month": 10604339,
+            "last_week": 2482568
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "scikit-learn": {
+        "downloads": {
+            "last_day": 1734670,
+            "last_month": 73096008,
+            "last_week": 17791088
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "imageio": {
+        "downloads": {
+            "last_day": 440385,
+            "last_month": 19028107,
+            "last_week": 4507562
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "ffmpeg-python": {
+        "downloads": {
+            "last_day": 54482,
+            "last_month": 3167950,
+            "last_week": 584809
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "av": {
+        "downloads": {
+            "last_day": 57422,
+            "last_month": 2384932,
+            "last_week": 523546
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "torchaudio": {
+        "downloads": {
+            "last_day": 295331,
+            "last_month": 6301515,
+            "last_week": 1786914
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "dlib": {
+        "downloads": {
+            "last_day": 9207,
+            "last_month": 402851,
+            "last_week": 90394
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "huggingface-hub": {
+        "downloads": {
+            "last_day": 1105552,
+            "last_month": 40799731,
+            "last_week": 9272253
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "colornamer": {
+        "downloads": {
+            "last_day": 9,
+            "last_month": 284,
+            "last_week": 80
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "webcolors": {
+        "downloads": {
+            "last_day": 489615,
+            "last_month": 17834559,
+            "last_week": 4179481
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "opencv-contrib-python": {
+        "downloads": {
+            "last_day": 42926,
+            "last_month": 1964447,
+            "last_week": 450891
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "llama-cpp-python": {
+        "downloads": {
+            "last_day": 4826,
+            "last_month": 244789,
+            "last_week": 55428
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "bitsandbytes": {
+        "downloads": {
+            "last_day": 48002,
+            "last_month": 2052699,
+            "last_week": 488234
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "protobuf": {
+        "downloads": {
+            "last_day": 5034279,
+            "last_month": 212737976,
+            "last_week": 51439188
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "accelerate": {
+        "downloads": {
+            "last_day": 136600,
+            "last_month": 6752300,
+            "last_week": 1454598
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "xformers": {
+        "downloads": {
+            "last_day": 42056,
+            "last_month": 1434285,
+            "last_week": 380734
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "triton": {
+        "downloads": {
+            "last_day": 238640,
+            "last_month": 12898636,
+            "last_week": 3045185
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "py360convert": {
+        "downloads": {
+            "last_day": 44,
+            "last_month": 7717,
+            "last_week": 1694
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "opencv-python-headless": {
+        "downloads": {
+            "last_day": 125278,
+            "last_month": 6043710,
+            "last_week": 1385735
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "lmdb": {
+        "downloads": {
+            "last_day": 47089,
+            "last_month": 1780649,
+            "last_week": 435072
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "timm": {
+        "downloads": {
+            "last_day": 138332,
+            "last_month": 5421377,
+            "last_week": 1287594
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "ffmpeg": {
+        "downloads": {
+            "last_day": 5153,
+            "last_month": 274265,
+            "last_week": 69945
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "onnx": {
+        "downloads": {
+            "last_day": 126624,
+            "last_month": 5380488,
+            "last_week": 1374636
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "albumentations": {
+        "downloads": {
+            "last_day": 141091,
+            "last_month": 3156298,
+            "last_week": 978446
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "matplotlib": {
+        "downloads": {
+            "last_day": 1438572,
+            "last_month": 68364811,
+            "last_week": 16610676
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pytube": {
+        "downloads": {
+            "last_day": 19156,
+            "last_month": 658985,
+            "last_week": 158505
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "numexpr": {
+        "downloads": {
+            "last_day": 63358,
+            "last_month": 4124777,
+            "last_week": 972767
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "http": {
+        "downloads": {
+            "last_day": 102,
+            "last_month": 4550,
+            "last_week": 1112
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "groq": {
+        "downloads": {
+            "last_day": 10360,
+            "last_month": 505713,
+            "last_week": 126928
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "omegaconf": {
+        "downloads": {
+            "last_day": 262487,
+            "last_month": 9332289,
+            "last_week": 2381221
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pygit2": {
+        "downloads": {
+            "last_day": 65538,
+            "last_month": 3173622,
+            "last_week": 894998
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "onnxruntime": {
+        "downloads": {
+            "last_day": 171506,
+            "last_month": 7687975,
+            "last_week": 1945136
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "ollama": {
+        "downloads": {
+            "last_day": 9111,
+            "last_month": 420931,
+            "last_week": 103820
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "einops": {
+        "downloads": {
+            "last_day": 97334,
+            "last_month": 5554487,
+            "last_week": 1117430
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pandas": {
+        "downloads": {
+            "last_day": 6052062,
+            "last_month": 249680470,
+            "last_week": 61940585
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "gradio": {
+        "downloads": {
+            "last_day": 164003,
+            "last_month": 7000840,
+            "last_week": 1484502
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "safetensors": {
+        "downloads": {
+            "last_day": 537054,
+            "last_month": 17293135,
+            "last_week": 4307108
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "py-cpuinfo": {
+        "downloads": {
+            "last_day": 132391,
+            "last_month": 7634966,
+            "last_week": 1832211
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "gitpython": {
+        "downloads": {
+            "last_day": 1658920,
+            "last_month": 71789744,
+            "last_week": 17442083
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "moviepy": {
+        "downloads": {
+            "last_day": 30588,
+            "last_month": 1232717,
+            "last_week": 300035
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "scikit-build": {
+        "downloads": {
+            "last_day": 16335,
+            "last_month": 843927,
+            "last_week": 199983
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "typing": {
+        "downloads": {
+            "last_day": 252741,
+            "last_month": 9656527,
+            "last_week": 2238873
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "diskcache": {
+        "downloads": {
+            "last_day": 138464,
+            "last_month": 7786275,
+            "last_week": 2068525
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pytz": {
+        "downloads": {
+            "last_day": 4830436,
+            "last_month": 223344970,
+            "last_week": 57676642
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "six": {
+        "downloads": {
+            "last_day": 7482782,
+            "last_month": 344509545,
+            "last_week": 84712117
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "python-dateutil": {
+        "downloads": {
+            "last_day": 9413052,
+            "last_month": 395633868,
+            "last_week": 96659347
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "soundfile": {
+        "downloads": {
+            "last_day": 70622,
+            "last_month": 4326383,
+            "last_week": 969971
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "symusic": {
+        "downloads": {
+            "last_day": 433,
+            "last_month": 17586,
+            "last_week": 3832
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "facexlib": {
+        "downloads": {
+            "last_day": 33864,
+            "last_month": 886896,
+            "last_week": 232806
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "insightface": {
+        "downloads": {
+            "last_day": 13350,
+            "last_month": 304750,
+            "last_week": 80087
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "onnxruntime-gpu": {
+        "downloads": {
+            "last_day": 45367,
+            "last_month": 1700550,
+            "last_week": 361903
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "ftfy": {
+        "downloads": {
+            "last_day": 115836,
+            "last_month": 5571365,
+            "last_week": 1234893
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "segment-anything": {
+        "downloads": {
+            "last_day": 29677,
+            "last_month": 842656,
+            "last_week": 251068
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "simple-lama-inpainting": {
+        "downloads": {
+            "last_day": 162,
+            "last_month": 21974,
+            "last_week": 3199
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pipe": {
+        "downloads": {
+            "last_day": 3426,
+            "last_month": 105528,
+            "last_week": 24438
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "resampy": {
+        "downloads": {
+            "last_day": 21841,
+            "last_month": 1093326,
+            "last_week": 234305
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "statsmodels": {
+        "downloads": {
+            "last_day": 377747,
+            "last_month": 16060101,
+            "last_week": 3763901
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "color-matcher": {
+        "downloads": {
+            "last_day": 2447,
+            "last_month": 62927,
+            "last_week": 18367
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "onediff": {
+        "downloads": {
+            "last_day": 385,
+            "last_month": 24980,
+            "last_week": 2429
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "duckduckgo-search": {
+        "downloads": {
+            "last_day": 9647,
+            "last_month": 392979,
+            "last_week": 100455
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "fastcore": {
+        "downloads": {
+            "last_day": 25162,
+            "last_month": 1995648,
+            "last_week": 488621
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "fastdownload": {
+        "downloads": {
+            "last_day": 3907,
+            "last_month": 193494,
+            "last_week": 42007
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "moderngl": {
+        "downloads": {
+            "last_day": 4833,
+            "last_month": 170333,
+            "last_week": 35448
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "clip-interrogator": {
+        "downloads": {
+            "last_day": 3470,
+            "last_month": 86891,
+            "last_week": 25788
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "lark-parser": {
+        "downloads": {
+            "last_day": 42654,
+            "last_month": 1393487,
+            "last_week": 415580
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "sentencepiece": {
+        "downloads": {
+            "last_day": 866012,
+            "last_month": 19097437,
+            "last_week": 5403620
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "spandrel": {
+        "downloads": {
+            "last_day": 26825,
+            "last_month": 773467,
+            "last_week": 209561
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "cachetools": {
+        "downloads": {
+            "last_day": 3712698,
+            "last_month": 158172581,
+            "last_week": 38409754
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "argon2-cffi": {
+        "downloads": {
+            "last_day": 567252,
+            "last_month": 22059437,
+            "last_week": 5165603
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "wordcloud": {
+        "downloads": {
+            "last_day": 30136,
+            "last_month": 1695044,
+            "last_week": 351786
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "networkx": {
+        "downloads": {
+            "last_day": 1227788,
+            "last_month": 57218813,
+            "last_week": 14004845
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "discord-webhook": {
+        "downloads": {
+            "last_day": 11029,
+            "last_month": 255849,
+            "last_week": 60960
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "imageio-ffmpeg": {
+        "downloads": {
+            "last_day": 49371,
+            "last_month": 2115224,
+            "last_week": 516616
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "librosa": {
+        "downloads": {
+            "last_day": 43698,
+            "last_month": 2298505,
+            "last_week": 511866
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pydub": {
+        "downloads": {
+            "last_day": 136492,
+            "last_month": 5246994,
+            "last_week": 1384562
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pilgram": {
+        "downloads": {
+            "last_day": 2343,
+            "last_month": 78648,
+            "last_week": 22593
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "wand": {
+        "downloads": {
+            "last_day": 9814,
+            "last_month": 823592,
+            "last_week": 174532
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "aiohttp": {
+        "downloads": {
+            "last_day": 3663411,
+            "last_month": 136056020,
+            "last_week": 33690959
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "rembg": {
+        "downloads": {
+            "last_day": 35402,
+            "last_month": 979629,
+            "last_week": 292707
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "python-telegram-bot": {
+        "downloads": {
+            "last_day": 91902,
+            "last_month": 3151611,
+            "last_week": 818771
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "requests-toolbelt": {
+        "downloads": {
+            "last_day": 2282383,
+            "last_month": 107146128,
+            "last_week": 26935692
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "hydrus-api": {
+        "downloads": {
+            "last_day": 2,
+            "last_month": 322,
+            "last_week": 65
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pykalman": {
+        "downloads": {
+            "last_day": 3114,
+            "last_month": 106906,
+            "last_week": 29533
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "mediapipe": {
+        "downloads": {
+            "last_day": 31556,
+            "last_month": 1084232,
+            "last_week": 266449
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "onnx2torch": {
+        "downloads": {
+            "last_day": 2237,
+            "last_month": 82098,
+            "last_week": 20317
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "simpleeval": {
+        "downloads": {
+            "last_day": 41645,
+            "last_month": 1952224,
+            "last_week": 469058
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "ultralytics": {
+        "downloads": {
+            "last_day": 74752,
+            "last_month": 2923374,
+            "last_week": 728333
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "ultralyticsplus": {
+        "downloads": {
+            "last_day": 197,
+            "last_month": 11248,
+            "last_week": 2891
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "torchmetrics": {
+        "downloads": {
+            "last_day": 117633,
+            "last_month": 5355593,
+            "last_week": 1308676
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "blend-modes": {
+        "downloads": {
+            "last_day": 1060,
+            "last_month": 22162,
+            "last_week": 7781
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "numba": {
+        "downloads": {
+            "last_day": 403118,
+            "last_month": 18583311,
+            "last_week": 4330064
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "msgspec": {
+        "downloads": {
+            "last_day": 62875,
+            "last_month": 2712753,
+            "last_week": 703840
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "colorama": {
+        "downloads": {
+            "last_day": 4682181,
+            "last_month": 188769470,
+            "last_week": 46149337
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "prefigure": {
+        "downloads": {
+            "last_day": 281,
+            "last_month": 10592,
+            "last_week": 2525
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pytorch-lightning": {
+        "downloads": {
+            "last_day": 124267,
+            "last_month": 5805234,
+            "last_week": 1355151
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "wandb": {
+        "downloads": {
+            "last_day": 326722,
+            "last_month": 13506335,
+            "last_week": 2983794
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "k-diffusion": {
+        "downloads": {
+            "last_day": 1696,
+            "last_month": 54490,
+            "last_week": 12791
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pysoundfile": {
+        "downloads": {
+            "last_day": 546,
+            "last_month": 32611,
+            "last_week": 5855
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "black": {
+        "downloads": {
+            "last_day": 792906,
+            "last_month": 44865790,
+            "last_week": 11159888
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "v-diffusion-pytorch": {
+        "downloads": {
+            "last_day": 251,
+            "last_month": 9624,
+            "last_week": 2240
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pygame": {
+        "downloads": {
+            "last_day": 49132,
+            "last_month": 1732937,
+            "last_week": 461636
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "tk": {
+        "downloads": {
+            "last_day": 22758,
+            "last_month": 541186,
+            "last_week": 161538
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "audio-diffusion-pytorch": {
+        "downloads": {
+            "last_day": 62,
+            "last_month": 2216,
+            "last_week": 583
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "tensorboard": {
+        "downloads": {
+            "last_day": 600695,
+            "last_month": 21978733,
+            "last_week": 5131432
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pyodbc": {
+        "downloads": {
+            "last_day": 643126,
+            "last_month": 24924580,
+            "last_week": 5841642
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "tyro": {
+        "downloads": {
+            "last_day": 13259,
+            "last_month": 645053,
+            "last_week": 162187
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "dill": {
+        "downloads": {
+            "last_day": 1708343,
+            "last_month": 64582548,
+            "last_week": 15885845
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "peft": {
+        "downloads": {
+            "last_day": 43913,
+            "last_month": 2254485,
+            "last_week": 526613
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "fire": {
+        "downloads": {
+            "last_day": 161875,
+            "last_month": 8254197,
+            "last_week": 1919529
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "yapf": {
+        "downloads": {
+            "last_day": 231425,
+            "last_month": 9199794,
+            "last_week": 2407815
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "hydra-core": {
+        "downloads": {
+            "last_day": 55977,
+            "last_month": 2769531,
+            "last_week": 689953
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "iopath": {
+        "downloads": {
+            "last_day": 45652,
+            "last_month": 1835002,
+            "last_week": 442962
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "replicate": {
+        "downloads": {
+            "last_day": 2727,
+            "last_month": 437181,
+            "last_week": 39546
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "websocket-client": {
+        "downloads": {
+            "last_day": 2022085,
+            "last_month": 86563961,
+            "last_week": 21530010
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "deepface": {
+        "downloads": {
+            "last_day": 1420,
+            "last_month": 80555,
+            "last_week": 17052
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "wget": {
+        "downloads": {
+            "last_day": 39763,
+            "last_month": 1857535,
+            "last_week": 486910
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pyautogui": {
+        "downloads": {
+            "last_day": 21883,
+            "last_month": 779654,
+            "last_week": 189757
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "keyboard": {
+        "downloads": {
+            "last_day": 9436,
+            "last_month": 431242,
+            "last_week": 97539
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pattern": {
+        "downloads": {
+            "last_day": 15158,
+            "last_month": 412785,
+            "last_week": 97153
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "sentry-sdk": {
+        "downloads": {
+            "last_day": 682495,
+            "last_month": 36770057,
+            "last_week": 9220698
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "deepdiff": {
+        "downloads": {
+            "last_day": 411778,
+            "last_month": 16579366,
+            "last_week": 4637059
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pynvml": {
+        "downloads": {
+            "last_day": 24708,
+            "last_month": 1521370,
+            "last_week": 348676
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "piexif": {
+        "downloads": {
+            "last_day": 26671,
+            "last_month": 938959,
+            "last_week": 241306
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "googletrans-py": {
+        "downloads": {
+            "last_day": 746,
+            "last_month": 50139,
+            "last_week": 11331
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "stable-audio-tools": {
+        "downloads": {
+            "last_day": 127,
+            "last_month": 5155,
+            "last_week": 1074
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "mttkinter": {
+        "downloads": {
+            "last_day": 51,
+            "last_month": 1737,
+            "last_week": 498
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pysimplegui": {
+        "downloads": {
+            "last_day": 4061,
+            "last_month": 168734,
+            "last_week": 37810
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pygetwindow": {
+        "downloads": {
+            "last_day": 19955,
+            "last_month": 738517,
+            "last_week": 180186
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "taming-transformers": {
+        "downloads": {
+            "last_day": 586,
+            "last_month": 31367,
+            "last_week": 8918
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "pygithub": {
+        "downloads": {
+            "last_day": 727364,
+            "last_month": 49829264,
+            "last_week": 12637948
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "matrix-client": {
+        "downloads": {
+            "last_day": 14646,
+            "last_month": 396073,
+            "last_week": 119534
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "dlib-bin": {
+        "downloads": {
+            "last_day": 472,
+            "last_month": 18090,
+            "last_week": 5963
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "kornia": {
+        "downloads": {
+            "last_day": 42835,
+            "last_month": 1618154,
+            "last_week": 405741
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "prettytable": {
+        "downloads": {
+            "last_day": 306810,
+            "last_month": 16666981,
+            "last_week": 4043202
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "aenum": {
+        "downloads": {
+            "last_day": 678452,
+            "last_month": 23589517,
+            "last_week": 5729435
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "blendmodes": {
+        "downloads": {
+            "last_day": 16619,
+            "last_month": 467602,
+            "last_week": 123178
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "daltonlens": {
+        "downloads": {
+            "last_day": 43,
+            "last_month": 1402,
+            "last_week": 382
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "glfw": {
+        "downloads": {
+            "last_day": 4169,
+            "last_month": 223499,
+            "last_week": 49988
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "stereoscopy": {
+        "downloads": {
+            "last_day": 39,
+            "last_month": 1339,
+            "last_week": 357
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "vnoise": {
+        "downloads": {
+            "last_day": 52,
+            "last_month": 3062,
+            "last_week": 542
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "qrcode": {
+        "downloads": {
+            "last_day": 48467,
+            "last_month": 4523545,
+            "last_week": 1187348
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "tensorrt": {
+        "downloads": {
+            "last_day": 2191,
+            "last_month": 148594,
+            "last_week": 33438
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "sounddevice": {
+        "downloads": {
+            "last_day": 39079,
+            "last_month": 1406822,
+            "last_week": 344171
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "torch-fidelity": {
+        "downloads": {
+            "last_day": 1897,
+            "last_month": 147499,
+            "last_week": 27464
+        },
+        "last_checked": 1723355068.6875544
+    },
+    "face-recognition": {
+        "downloads": {
+            "last_day": 2577,
+            "last_month": 127115,
+            "last_week": 27934
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "realesrgan": {
+        "downloads": {
+            "last_day": 7538,
+            "last_month": 245050,
+            "last_week": 55867
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "pygraphviz": {
+        "downloads": {
+            "last_day": 6025,
+            "last_month": 369978,
+            "last_week": 88626
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "tensorimgutils": {
+        "downloads": {
+            "last_day": 115,
+            "last_month": 644,
+            "last_week": 219
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "pillow-avif-plugin": {
+        "downloads": {
+            "last_day": 18183,
+            "last_month": 544369,
+            "last_week": 138880
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "pillow-heif": {
+        "downloads": {
+            "last_day": 9401,
+            "last_month": 1665695,
+            "last_week": 507739
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "fairseq": {
+        "downloads": {
+            "last_day": 5553,
+            "last_month": 192113,
+            "last_week": 42505
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "faiss-cpu": {
+        "downloads": {
+            "last_day": 128084,
+            "last_month": 5498521,
+            "last_week": 1274286
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "audioread": {
+        "downloads": {
+            "last_day": 26676,
+            "last_month": 1586364,
+            "last_week": 344603
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "audio-separator": {
+        "downloads": {
+            "last_day": 2533,
+            "last_month": 63390,
+            "last_week": 16152
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "ffmpy": {
+        "downloads": {
+            "last_day": 95139,
+            "last_month": 2734524,
+            "last_week": 829164
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "samplerate": {
+        "downloads": {
+            "last_day": 4723,
+            "last_month": 137521,
+            "last_week": 35251
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "pyaudio": {
+        "downloads": {
+            "last_day": 7395,
+            "last_month": 326611,
+            "last_week": 76882
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "spacy": {
+        "downloads": {
+            "last_day": 355937,
+            "last_month": 9485622,
+            "last_week": 2516852
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "monotonic-align": {
+        "downloads": {
+            "last_day": 58,
+            "last_month": 2801,
+            "last_week": 383
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "textacy": {
+        "downloads": {
+            "last_day": 398,
+            "last_month": 26310,
+            "last_week": 6610
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "spacytextblob": {
+        "downloads": {
+            "last_day": 535,
+            "last_month": 61476,
+            "last_week": 24808
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "nltk": {
+        "downloads": {
+            "last_day": 609582,
+            "last_month": 19328264,
+            "last_week": 4851398
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "whisperspeech": {
+        "downloads": {
+            "last_day": 131,
+            "last_month": 2856,
+            "last_week": 755
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "pypng": {
+        "downloads": {
+            "last_day": 82569,
+            "last_month": 4768838,
+            "last_week": 1303982
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "dashscope": {
+        "downloads": {
+            "last_day": 1342,
+            "last_month": 103494,
+            "last_week": 22739
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "aura-sr": {
+        "downloads": {
+            "last_day": 97,
+            "last_month": 2166,
+            "last_week": 742
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "pyopengl": {
+        "downloads": {
+            "last_day": 10628,
+            "last_month": 510696,
+            "last_week": 109163
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "pyopengl-accelerate": {
+        "downloads": {
+            "last_day": 732,
+            "last_month": 68881,
+            "last_week": 14548
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "phycv": {
+        "downloads": {
+            "last_day": 14,
+            "last_month": 270,
+            "last_week": 106
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "modelscope": {
+        "downloads": {
+            "last_day": 2256,
+            "last_month": 124973,
+            "last_week": 30294
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "flake8": {
+        "downloads": {
+            "last_day": 638857,
+            "last_month": 34471538,
+            "last_week": 8799089
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "pylint": {
+        "downloads": {
+            "last_day": 499243,
+            "last_month": 28585094,
+            "last_week": 6894401
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "fvcore": {
+        "downloads": {
+            "last_day": 14076,
+            "last_month": 656322,
+            "last_week": 152580
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "submitit": {
+        "downloads": {
+            "last_day": 7790,
+            "last_month": 415198,
+            "last_week": 95901
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "cuml-cu11": {
+        "downloads": {
+            "last_day": 39,
+            "last_month": 2697,
+            "last_week": 607
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "lark": {
+        "downloads": {
+            "last_day": 119704,
+            "last_month": 6771984,
+            "last_week": 1709198
+        },
+        "last_checked": 1723355369.0222588
+    },
+    "llama-index": {
+        "downloads": {
+            "last_day": 15929,
+            "last_month": 1304070,
+            "last_week": 269497
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-cli": {
+        "downloads": {
+            "last_day": 9215,
+            "last_month": 603476,
+            "last_week": 156000
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-core": {
+        "downloads": {
+            "last_day": 14732,
+            "last_month": 1092262,
+            "last_week": 255127
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-legacy": {
+        "downloads": {
+            "last_day": 9053,
+            "last_month": 596750,
+            "last_week": 154790
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llamaindex-py-client": {
+        "downloads": {
+            "last_day": 2796,
+            "last_month": 256707,
+            "last_week": 60200
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-agent-openai": {
+        "downloads": {
+            "last_day": 9662,
+            "last_month": 688095,
+            "last_week": 171629
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-llms-gemini": {
+        "downloads": {
+            "last_day": 383,
+            "last_month": 26423,
+            "last_week": 6572
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-multi-modal-llms-gemini": {
+        "downloads": {
+            "last_day": 133,
+            "last_month": 7827,
+            "last_week": 1710
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-llms-llama-cpp": {
+        "downloads": {
+            "last_day": 222,
+            "last_month": 13433,
+            "last_week": 3268
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-llms-mistralai": {
+        "downloads": {
+            "last_day": 245,
+            "last_month": 12361,
+            "last_week": 2919
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-llms-openai": {
+        "downloads": {
+            "last_day": 11897,
+            "last_month": 740488,
+            "last_week": 204964
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-llms-groq": {
+        "downloads": {
+            "last_day": 401,
+            "last_month": 16560,
+            "last_week": 4566
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-multi-modal-llms-openai": {
+        "downloads": {
+            "last_day": 9601,
+            "last_month": 627109,
+            "last_week": 163306
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-program-openai": {
+        "downloads": {
+            "last_day": 9712,
+            "last_month": 645102,
+            "last_week": 167519
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-question-gen-openai": {
+        "downloads": {
+            "last_day": 8962,
+            "last_month": 593637,
+            "last_week": 153925
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-embeddings-gemini": {
+        "downloads": {
+            "last_day": 289,
+            "last_month": 20204,
+            "last_week": 4510
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-embeddings-huggingface": {
+        "downloads": {
+            "last_day": 3076,
+            "last_month": 129438,
+            "last_week": 36104
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-embeddings-openai": {
+        "downloads": {
+            "last_day": 9497,
+            "last_month": 645922,
+            "last_week": 165983
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-indices-managed-llama-cloud": {
+        "downloads": {
+            "last_day": 9522,
+            "last_month": 647014,
+            "last_week": 165057
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-readers-file": {
+        "downloads": {
+            "last_day": 10828,
+            "last_month": 704948,
+            "last_week": 180634
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-readers-google": {
+        "downloads": {
+            "last_day": 218,
+            "last_month": 9699,
+            "last_week": 2780
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-readers-llama-parse": {
+        "downloads": {
+            "last_day": 9146,
+            "last_month": 603821,
+            "last_week": 155228
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-readers-notion": {
+        "downloads": {
+            "last_day": 176,
+            "last_month": 8510,
+            "last_week": 2497
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-readers-web": {
+        "downloads": {
+            "last_day": 619,
+            "last_month": 38558,
+            "last_week": 10222
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-vector-stores-qdrant": {
+        "downloads": {
+            "last_day": 685,
+            "last_month": 57334,
+            "last_week": 13877
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-index-tools-tavily-research": {
+        "downloads": {
+            "last_day": 128,
+            "last_month": 2242,
+            "last_week": 742
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llama-parse": {
+        "downloads": {
+            "last_day": 9481,
+            "last_month": 645345,
+            "last_week": 163773
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "docx2txt": {
+        "downloads": {
+            "last_day": 19435,
+            "last_month": 909913,
+            "last_week": 219908
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "ebooklib": {
+        "downloads": {
+            "last_day": 3007,
+            "last_month": 110826,
+            "last_week": 28230
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "fastparquet": {
+        "downloads": {
+            "last_day": 148536,
+            "last_month": 6142975,
+            "last_week": 1452118
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "html2text": {
+        "downloads": {
+            "last_day": 61579,
+            "last_month": 3360717,
+            "last_week": 874563
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "jsonpath-ng": {
+        "downloads": {
+            "last_day": 851014,
+            "last_month": 30783232,
+            "last_week": 7366806
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "llvmlite": {
+        "downloads": {
+            "last_day": 389583,
+            "last_month": 17405269,
+            "last_week": 4007134
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "mistralai": {
+        "downloads": {
+            "last_day": 4646,
+            "last_month": 332329,
+            "last_week": 60817
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "nbconvert": {
+        "downloads": {
+            "last_day": 735664,
+            "last_month": 29331722,
+            "last_week": 6617235
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "openpyxl": {
+        "downloads": {
+            "last_day": 2338447,
+            "last_month": 92501315,
+            "last_week": 22047294
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "python-pptx": {
+        "downloads": {
+            "last_day": 43597,
+            "last_month": 2300562,
+            "last_week": 560957
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "pyarrow": {
+        "downloads": {
+            "last_day": 3607426,
+            "last_month": 141969819,
+            "last_week": 34888763
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "trafilatura": {
+        "downloads": {
+            "last_day": 7442,
+            "last_month": 505613,
+            "last_week": 139178
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "google-generativeai": {
+        "downloads": {
+            "last_day": 23560,
+            "last_month": 1208275,
+            "last_week": 283541
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "qdrant-client": {
+        "downloads": {
+            "last_day": 45387,
+            "last_month": 2023377,
+            "last_week": 514730
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "pyautogen": {
+        "downloads": {
+            "last_day": 2762,
+            "last_month": 189585,
+            "last_week": 42925
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "tavily-python": {
+        "downloads": {
+            "last_day": 2359,
+            "last_month": 115140,
+            "last_week": 28873
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "regex": {
+        "downloads": {
+            "last_day": 1618232,
+            "last_month": 64812235,
+            "last_week": 15967949
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "deep-translator": {
+        "downloads": {
+            "last_day": 11731,
+            "last_month": 416284,
+            "last_week": 100956
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "argostranslate": {
+        "downloads": {
+            "last_day": 2860,
+            "last_month": 97203,
+            "last_week": 29497
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "cupy-wheel": {
+        "downloads": {
+            "last_day": 4078,
+            "last_month": 118389,
+            "last_week": 29737
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "lightning": {
+        "downloads": {
+            "last_day": 17952,
+            "last_month": 1155596,
+            "last_week": 284000
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "aiohttp-session": {
+        "downloads": {
+            "last_day": 3199,
+            "last_month": 121015,
+            "last_week": 32506
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "bcrypt": {
+        "downloads": {
+            "last_day": 1982869,
+            "last_month": 97176274,
+            "last_week": 26631756
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "pycryptodome": {
+        "downloads": {
+            "last_day": 993218,
+            "last_month": 33022602,
+            "last_week": 7951991
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "cmake": {
+        "downloads": {
+            "last_day": 145985,
+            "last_month": 9081070,
+            "last_week": 2328324
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "easydict": {
+        "downloads": {
+            "last_day": 32202,
+            "last_month": 1084259,
+            "last_week": 253540
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "datasets": {
+        "downloads": {
+            "last_day": 354991,
+            "last_month": 10828986,
+            "last_week": 2763316
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "seam-carving": {
+        "downloads": {
+            "last_day": 27,
+            "last_month": 519,
+            "last_week": 192
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "crewai": {
+        "downloads": {
+            "last_day": 4275,
+            "last_month": 213422,
+            "last_week": 48739
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "langchain-community": {
+        "downloads": {
+            "last_day": 216444,
+            "last_month": 9953758,
+            "last_week": 2361563
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "langchain-openai": {
+        "downloads": {
+            "last_day": 62712,
+            "last_month": 4395055,
+            "last_week": 1081045
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "tokenizers": {
+        "downloads": {
+            "last_day": 711805,
+            "last_month": 25689342,
+            "last_week": 6204841
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "fsspec": {
+        "downloads": {
+            "last_day": 8824082,
+            "last_month": 291813617,
+            "last_week": 69749506
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "open-clip-torch": {
+        "downloads": {
+            "last_day": 44151,
+            "last_month": 1186273,
+            "last_week": 310569
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "spaces": {
+        "downloads": {
+            "last_day": 3096,
+            "last_month": 90347,
+            "last_week": 21697
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "image-reward": {
+        "downloads": {
+            "last_day": 1546,
+            "last_month": 35788,
+            "last_week": 12719
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "clip": {
+        "downloads": {
+            "last_day": 553,
+            "last_month": 26938,
+            "last_week": 7689
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "coremltools": {
+        "downloads": {
+            "last_day": 72559,
+            "last_month": 767922,
+            "last_week": 387252
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "overrides": {
+        "downloads": {
+            "last_day": 539164,
+            "last_month": 20106752,
+            "last_week": 4766724
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "evalidate": {
+        "downloads": {
+            "last_day": 562,
+            "last_month": 18853,
+            "last_week": 6022
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "sd-mecha": {
+        "downloads": {
+            "last_day": 583,
+            "last_month": 10470,
+            "last_week": 4256
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "easyocr": {
+        "downloads": {
+            "last_day": 8350,
+            "last_month": 408610,
+            "last_week": 100889
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "pyexecjs": {
+        "downloads": {
+            "last_day": 4420,
+            "last_month": 175089,
+            "last_week": 39558
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "fairscale": {
+        "downloads": {
+            "last_day": 13156,
+            "last_month": 453342,
+            "last_week": 100990
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "joblib": {
+        "downloads": {
+            "last_day": 1579709,
+            "last_month": 57224065,
+            "last_week": 14264573
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "loralib": {
+        "downloads": {
+            "last_day": 1560,
+            "last_month": 77697,
+            "last_week": 20429
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "requirements-parser": {
+        "downloads": {
+            "last_day": 30545,
+            "last_month": 2249690,
+            "last_week": 422212
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "rich-argparse": {
+        "downloads": {
+            "last_day": 643060,
+            "last_month": 15970719,
+            "last_week": 4477772
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "cpm-kernels": {
+        "downloads": {
+            "last_day": 679,
+            "last_month": 37836,
+            "last_week": 9068
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "discord-py": {
+        "downloads": {
+            "last_day": 36302,
+            "last_month": 1107290,
+            "last_week": 274552
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "rel": {
+        "downloads": {
+            "last_day": 2766,
+            "last_month": 95276,
+            "last_week": 21340
+        },
+        "last_checked": 1723355394.3031583
+    },
+    "gray2color": {
+        "downloads": {
+            "last_day": 92,
+            "last_month": 2217,
+            "last_week": 667
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "googletrans": {
+        "downloads": {
+            "last_day": 10895,
+            "last_month": 809264,
+            "last_week": 152975
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "controlnet-aux": {
+        "downloads": {
+            "last_day": 11321,
+            "last_month": 324861,
+            "last_week": 92228
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "ort-nightly-gpu": {
+        "downloads": {
+            "last_day": 30,
+            "last_month": 1991,
+            "last_week": 296
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "curl-cffi": {
+        "downloads": {
+            "last_day": 9889,
+            "last_month": 590282,
+            "last_week": 212421
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "ip-adapter": {
+        "downloads": {
+            "last_day": 17,
+            "last_month": 879,
+            "last_week": 201
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "deepspeed": {
+        "downloads": {
+            "last_day": 9781,
+            "last_month": 491139,
+            "last_week": 112417
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "lion-pytorch": {
+        "downloads": {
+            "last_day": 3538,
+            "last_month": 115025,
+            "last_week": 33288
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "ipython": {
+        "downloads": {
+            "last_day": 978379,
+            "last_month": 46536326,
+            "last_week": 10855554
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "anthropic": {
+        "downloads": {
+            "last_day": 39415,
+            "last_month": 2487470,
+            "last_week": 611251
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "torchsde": {
+        "downloads": {
+            "last_day": 55670,
+            "last_month": 1611464,
+            "last_week": 443853
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "psutil": {
+        "downloads": {
+            "last_day": 3714598,
+            "last_month": 168814416,
+            "last_week": 45638528
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "pywin32": {
+        "downloads": {
+            "last_day": 240704,
+            "last_month": 11110567,
+            "last_week": 2742727
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "mss": {
+        "downloads": {
+            "last_day": 25890,
+            "last_month": 988146,
+            "last_week": 250840
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "pygrabber": {
+        "downloads": {
+            "last_day": 54,
+            "last_month": 7586,
+            "last_week": 1772
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "dominate": {
+        "downloads": {
+            "last_day": 46608,
+            "last_month": 1818102,
+            "last_week": 455569
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "tensorboardx": {
+        "downloads": {
+            "last_day": 38352,
+            "last_month": 2152592,
+            "last_week": 506193
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "loguru": {
+        "downloads": {
+            "last_day": 1020159,
+            "last_month": 34936484,
+            "last_week": 8576553
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "transparent-background": {
+        "downloads": {
+            "last_day": 3940,
+            "last_month": 90916,
+            "last_week": 30280
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "mido": {
+        "downloads": {
+            "last_day": 13714,
+            "last_month": 246081,
+            "last_week": 92993
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "spoutgl": {
+        "downloads": {
+            "last_day": 57,
+            "last_month": 1758,
+            "last_week": 350
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "openunmix": {
+        "downloads": {
+            "last_day": 2252,
+            "last_month": 88068,
+            "last_week": 18449
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "wrapt": {
+        "downloads": {
+            "last_day": 3549385,
+            "last_month": 174293273,
+            "last_week": 42905318
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "natsort": {
+        "downloads": {
+            "last_day": 106870,
+            "last_month": 5449145,
+            "last_week": 1417992
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "glitch-this": {
+        "downloads": {
+            "last_day": 572,
+            "last_month": 49465,
+            "last_week": 10820
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "carvekit-colab": {
+        "downloads": {
+            "last_day": 97,
+            "last_month": 6287,
+            "last_week": 1288
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "lovely-numpy": {
+        "downloads": {
+            "last_day": 189,
+            "last_month": 14678,
+            "last_week": 2796
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "lovely-tensors": {
+        "downloads": {
+            "last_day": 173,
+            "last_month": 14021,
+            "last_week": 2720
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "importlib-metadata": {
+        "downloads": {
+            "last_day": 5603288,
+            "last_month": 251422294,
+            "last_week": 60922532
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "svglib": {
+        "downloads": {
+            "last_day": 16232,
+            "last_month": 1414875,
+            "last_week": 387223
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "trimesh": {
+        "downloads": {
+            "last_day": 35330,
+            "last_month": 1737764,
+            "last_week": 399648
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "fal-client": {
+        "downloads": {
+            "last_day": 395,
+            "last_month": 8657,
+            "last_week": 3782
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "httpx-sse": {
+        "downloads": {
+            "last_day": 12073,
+            "last_month": 779833,
+            "last_week": 198119
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "fal": {
+        "downloads": {
+            "last_day": 185,
+            "last_month": 9277,
+            "last_week": 2586
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "jieba": {
+        "downloads": {
+            "last_day": 32043,
+            "last_month": 1238402,
+            "last_week": 306103
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "edge-tts": {
+        "downloads": {
+            "last_day": 3123,
+            "last_month": 91881,
+            "last_week": 23198
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "asyncio": {
+        "downloads": {
+            "last_day": 111952,
+            "last_month": 5012822,
+            "last_week": 1145617
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "pyglet": {
+        "downloads": {
+            "last_day": 11652,
+            "last_month": 389046,
+            "last_week": 95689
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "arcade": {
+        "downloads": {
+            "last_day": 1652,
+            "last_month": 27867,
+            "last_week": 7622
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "py-search": {
+        "downloads": {
+            "last_day": 26,
+            "last_month": 586,
+            "last_week": 181
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "torchdiffeq": {
+        "downloads": {
+            "last_day": 22876,
+            "last_month": 698983,
+            "last_week": 182451
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "gradio-client": {
+        "downloads": {
+            "last_day": 124680,
+            "last_month": 4639771,
+            "last_week": 1087378
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "colour-science": {
+        "downloads": {
+            "last_day": 3341,
+            "last_month": 112768,
+            "last_week": 32726
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "pixeloe": {
+        "downloads": {
+            "last_day": 1399,
+            "last_month": 34427,
+            "last_week": 9998
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "pexpect": {
+        "downloads": {
+            "last_day": 1328558,
+            "last_month": 77785348,
+            "last_week": 18888163
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "pyrallis": {
+        "downloads": {
+            "last_day": 40,
+            "last_month": 20460,
+            "last_week": 5277
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "pathlib": {
+        "downloads": {
+            "last_day": 96966,
+            "last_month": 4759957,
+            "last_week": 1191773
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "filetype": {
+        "downloads": {
+            "last_day": 53012,
+            "last_month": 4424799,
+            "last_week": 1182618
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "ufile": {
+        "downloads": {
+            "last_day": 40,
+            "last_month": 1378,
+            "last_week": 329
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "opencv-contrib-python-headless": {
+        "downloads": {
+            "last_day": 28807,
+            "last_month": 962590,
+            "last_week": 262344
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "orjson": {
+        "downloads": {
+            "last_day": 624943,
+            "last_month": 32969860,
+            "last_week": 7832029
+        },
+        "last_checked": 1723355768.2910604
+    },
+    "toml": {
+        "downloads": {
+            "last_day": 867156,
+            "last_month": 49538346,
+            "last_week": 11173093
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "ninja": {
+        "downloads": {
+            "last_day": 236655,
+            "last_month": 12646830,
+            "last_week": 2963846
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "nerfacc": {
+        "downloads": {
+            "last_day": 630,
+            "last_month": 45908,
+            "last_week": 12721
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "pymcubes": {
+        "downloads": {
+            "last_day": 1386,
+            "last_month": 59632,
+            "last_week": 16381
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "pytorch-msssim": {
+        "downloads": {
+            "last_day": 1419,
+            "last_month": 101932,
+            "last_week": 19293
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "plyfile": {
+        "downloads": {
+            "last_day": 5249,
+            "last_month": 402334,
+            "last_week": 57301
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "pygltflib": {
+        "downloads": {
+            "last_day": 1825,
+            "last_month": 221282,
+            "last_week": 22633
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "xatlas": {
+        "downloads": {
+            "last_day": 11529,
+            "last_month": 397498,
+            "last_week": 103535
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "pymeshlab": {
+        "downloads": {
+            "last_day": 665,
+            "last_month": 48091,
+            "last_week": 10569
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "torchtyping": {
+        "downloads": {
+            "last_day": 461,
+            "last_month": 40776,
+            "last_week": 11475
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "jaxtyping": {
+        "downloads": {
+            "last_day": 11879,
+            "last_month": 614963,
+            "last_week": 143078
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "pyhocon": {
+        "downloads": {
+            "last_day": 73882,
+            "last_month": 3068936,
+            "last_week": 733696
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "smplx": {
+        "downloads": {
+            "last_day": 499,
+            "last_month": 23054,
+            "last_week": 5825
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "h5py": {
+        "downloads": {
+            "last_day": 429009,
+            "last_month": 18861324,
+            "last_week": 4235495
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "pyrender": {
+        "downloads": {
+            "last_day": 1719,
+            "last_month": 63275,
+            "last_week": 15626
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "shapely": {
+        "downloads": {
+            "last_day": 749051,
+            "last_month": 30970423,
+            "last_week": 7298126
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "mapbox-earcut": {
+        "downloads": {
+            "last_day": 14582,
+            "last_month": 269223,
+            "last_week": 65526
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "bert-score": {
+        "downloads": {
+            "last_day": 4024,
+            "last_month": 662759,
+            "last_week": 51479
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "webdataset": {
+        "downloads": {
+            "last_day": 32726,
+            "last_month": 1282113,
+            "last_week": 235011
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "pyopenssl": {
+        "downloads": {
+            "last_day": 2773764,
+            "last_month": 114389052,
+            "last_week": 28090400
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "json-repair": {
+        "downloads": {
+            "last_day": 6703,
+            "last_month": 271278,
+            "last_week": 91131
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "pymatting": {
+        "downloads": {
+            "last_day": 33907,
+            "last_month": 946579,
+            "last_week": 279698
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "typer-config": {
+        "downloads": {
+            "last_day": 1903,
+            "last_month": 74508,
+            "last_week": 21205
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "fastapi": {
+        "downloads": {
+            "last_day": 773489,
+            "last_month": 41640473,
+            "last_week": 10237976
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "blind-watermark": {
+        "downloads": {
+            "last_day": 1030,
+            "last_month": 24191,
+            "last_week": 8654
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "psd-tools": {
+        "downloads": {
+            "last_day": 1398,
+            "last_month": 74375,
+            "last_week": 26541
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "dynamicprompts": {
+        "downloads": {
+            "last_day": 4511,
+            "last_month": 121993,
+            "last_week": 32957
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "ipdb": {
+        "downloads": {
+            "last_day": 52490,
+            "last_month": 4181189,
+            "last_week": 848801
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "pefile": {
+        "downloads": {
+            "last_day": 41704,
+            "last_month": 1925513,
+            "last_week": 464458
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "pipreqs": {
+        "downloads": {
+            "last_day": 15625,
+            "last_month": 764220,
+            "last_week": 178718
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "pycocotools": {
+        "downloads": {
+            "last_day": 39219,
+            "last_month": 2387959,
+            "last_week": 529673
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "pyexiv2": {
+        "downloads": {
+            "last_day": 279,
+            "last_month": 14787,
+            "last_week": 3016
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "supervision": {
+        "downloads": {
+            "last_day": 28867,
+            "last_month": 938220,
+            "last_week": 266196
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "tomli": {
+        "downloads": {
+            "last_day": 3993258,
+            "last_month": 176062349,
+            "last_week": 43080885
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "openai-clip": {
+        "downloads": {
+            "last_day": 842,
+            "last_month": 45714,
+            "last_week": 8910
+        },
+        "last_checked": 1723357772.1098518
+    },
+    "clipseg": {
+        "downloads": {
+            "last_day": -1,
+            "last_week": -1,
+            "last_month": -1
+        },
+        "last_checked": 1721543730.7776403
+    },
+    "opencv": {
+        "downloads": {
+            "last_day": -1,
+            "last_week": -1,
+            "last_month": -1
+        },
+        "last_checked": 1721543730.7776403
+    },
+    "pil": {
+        "downloads": {
+            "last_day": -1,
+            "last_week": -1,
+            "last_month": -1
+        },
+        "last_checked": 1721543730.7776403
+    },
+    "unprompted": {
+        "downloads": {
+            "last_day": -1,
+            "last_week": -1,
+            "last_month": -1
+        },
+        "last_checked": 1721543730.7776403
+    }
+}
